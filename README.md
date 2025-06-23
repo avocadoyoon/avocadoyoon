@@ -82,18 +82,18 @@
   
 🔠 Mastering Python + SQL + Excel
 
-🔥 Contributing to open-source linguistics / AI / translation tools
+🌼 Contributing to open-source linguistics / AI / translation tools
 
 <br>
 
 <div align="center">
 
-## Contact me!
+## Contact me
+
 _Let’s collab or vibe!_
 
-<img src="meow.gif" width="200"/>
+<img src="snorlax.gif" width="200"/>
 
-_Toxic perfectionist_
 
 
 
