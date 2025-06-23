@@ -80,9 +80,7 @@
   
 📊 Mini SQL and Python projects
   
-🔠 Mastering Python + SQL + Excel
-
-🌼 Contributing to open-source linguistics / AI / translation tools
+🔠 Contributing to open-source linguistics / AI / translation tools
 
 <br>
 
