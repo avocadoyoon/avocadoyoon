@@ -3,7 +3,7 @@
 # *Hi, I'm Nursena!* 🪐
 
 <p>
-  <strong>Translator & Interpreter 🪩 | AI Writing Consultant 🌌  | Data Linguist to be 🤍 </strong>
+  <strong> PhD student in Neurolinguistics and Aphasia | Translator & Interpreter | AI Writing Consultant & Data Linguist </strong>
 </p>  
 
 <img src="teclado.gif" width="200"/>
@@ -16,7 +16,9 @@
   
 🎓 BA in _Translation & Interpreting_ from the Başkent University, Türkiye | **GPA:** 3.85/4.00
 
-⚡️Currently pursuing an MA in _Language Acquisition in Multilingual Settings (LAMS)_ at the University of the Basque Country (Universidad del País Vasco), Spain
+🎓 MA in _Language Acquisition in Multilingual Settings (LAMS)_ at the University of the Basque Country (Universidad del País Vasco) | **GPA:** 9/10
+
+⚡️ PhD in _Neurolinguistics and Aphasia_ at BCBL 
 
 <div align="center">
   
@@ -72,13 +74,15 @@
 
 <div align="left">
 
+• Aphasia recovery patterns in the bilingual population
+
 • Multilingual Emotional Valence Analysis
 
 • Translation & Localization (Medicine, Psychology, Health Tourism, AVT, Legal, BTC ♾️)
 
 • AI linguistics & writing assistant projects
 
-• Newbie Pythonista + SQL enthusiast
+• Newbie Pythonista, SQL + R enthusiast
 
 <div align="center">
 
@@ -87,20 +91,17 @@
 ## 📍 Current Projects & Goals
 
 <div align="left">
-  
+
+💻 Learning R
+
 📊 Mini SQL and Python projects
   
-🔠 Contributing to open-source linguistics / AI / translation tools
+🔠 Contributing to open-source linguistics / AI/translation tools
 
 <br>
 
 <div align="center">
 
-## Contact me
-
-_Let’s collab or vibe!_
-
-<img src="snorlax.gif" width="200"/>
 
 
 
