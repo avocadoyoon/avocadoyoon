@@ -16,7 +16,7 @@
   
 🎓 BA in _Translation & Interpreting_ from the Başkent University, Türkiye | **GPA:** 3.85/4.00
 
-🎓 MA in _Language Acquisition in Multilingual Settings (LAMS)_ at the University of the Basque Country (Universidad del País Vasco) | **GPA:** 9/10
+🎓 MA in _Language Acquisition in Multilingual Settings (LAMS)_ at the UPV/EHU | **GPA:** 9/10
 
 ⚡️ PhD in _Neurolinguistics and Aphasia_ at BCBL 
 
