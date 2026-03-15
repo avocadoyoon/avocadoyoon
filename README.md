@@ -1,6 +1,6 @@
 <div align="center">
   
-# *Hi, I'm Nursena!* 🪐
+# *Hi, I'm Nur(sena)!* 🪐
 
 <p>
   <strong> PhD student in Neurolinguistics and Aphasia | Translator & Interpreter | AI Writing Consultant & Data Linguist </strong>
@@ -26,7 +26,8 @@
 
 ## Languages
 
-```Turkish (Native] | English (C2) | Spanish (C1) | Korean (B1) | Italian (B1)```
+```Turkish (Native] | English (C2) | Spanish (C1) | Korean (B1) | Italian (B1) | Euskera (A1)```
+
 
 <br>
 
@@ -36,16 +37,27 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Praat](https://img.shields.io/badge/Praat-555555?style=for-the-badge)
+![SPSS](https://img.shields.io/badge/SPSS-FF0000?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-FF0000?style=for-the-badge)
-![CHILDES](https://img.shields.io/badge/CHILDES-555555?style=for-the-badge)
-![KWIC](https://img.shields.io/badge/KWIC-555555?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CHILDES](https://img.shields.io/badge/CHILDES-555555?style=for-the-badge)
+![KWIC](https://img.shields.io/badge/KWIC-555555?style=for-the-badge)
+
+
+
+
+
+
 <br>
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
 
 <br>
 
@@ -74,7 +86,7 @@
 
 <div align="left">
 
-• Aphasia recovery patterns in the bilingual population
+• Aphasia & prosody recovery patterns in the bilingual population
 
 • Multilingual Emotional Valence Analysis
 
@@ -94,9 +106,7 @@
 
 💻 Learning R
 
-📊 Mini SQL and Python projects
-  
-🔠 Contributing to open-source linguistics / AI/translation tools
+📊 Mini R & Python projects
 
 <br>
 
