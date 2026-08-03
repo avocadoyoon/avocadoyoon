@@ -22,14 +22,14 @@ I came to research through Translation & Interpreting, and it stuck: I still thi
 🎓 **MA** in Language Acquisition in Multilingual Settings (LAMS) — UPV/EHU · *GPA 9/10*  
 ⚡️ **PhD** in Neurolinguistics & Aphasia — BCBL
 
-<h2 align="center">🔍 What I work on</h2>
+<h2 align="center"> What I work on</h2>
 
 - **Aphasia & prosody recovery** in bilingual populations
 - **Multilingual emotional valence analysis**
 - **Translation & localization** — medicine, psychology, health tourism, AVT, legal, BTC, and more
 - **AI linguistics** & writing-assistant projects
 
-<h2 align="center">🗣️ Languages</h2>
+<h2 align="center"> Languages</h2>
 
 <div align="center">
 
@@ -37,7 +37,7 @@ I came to research through Translation & Interpreting, and it stuck: I still thi
 
 </div>
 
-<h2 align="center">⛓️‍💥 Research & Data Toolkit</h2>
+<h2 align="center"> Research & Data Toolkit</h2>
 
 <div align="center">
 
@@ -55,7 +55,7 @@ I came to research through Translation & Interpreting, and it stuck: I still thi
 
 </div>
 
-<h2 align="center">💻 CAT & AVT Tools</h2>
+<h2 align="center"> CAT & AVT Tools</h2>
 
 <div align="center">
 
