@@ -4,7 +4,10 @@
 
 **PhD student in Neurolinguistics & Aphasia · Translator & Interpreter · AI Writing Consultant & Data Linguist**
 
-<img src="lofi.mov" width="350"/>
+<div align="center">
+
+<img src="https://media.tenor.com/gXx3-rpJ0XEAAAAi/pisces-monochromian.gif" width="200"/>
+
 
 </div>
 
