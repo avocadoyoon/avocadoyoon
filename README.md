@@ -1,78 +1,62 @@
 <div align="center">
-  
-# *Hi, I'm Nur(sena)!* 🪐
 
-<p>
-  <strong> PhD student in Neurolinguistics and Aphasia | Translator & Interpreter | AI Writing Consultant & Data Linguist </strong>
-</p>  
+# *Hi, I'm Nur(sena)!*
 
-<img src="teclado.gif" width="200"/>
+**PhD student in Neurolinguistics & Aphasia · Translator & Interpreter · AI Writing Consultant & Data Linguist**
 
+<img src="lofi.mov" width="350"/>
 
-<br>
-  
-## **About _me_**
+</div>
 
-  
-🎓 BA in _Translation & Interpreting_ from the Başkent University, Türkiye | **GPA:** 3.85/4.00
+<h2 align="center">📎 About me</h2>
 
-🎓 MA in _Language Acquisition in Multilingual Settings (LAMS)_ at the UPV/EHU | **GPA:** 9/10
+I study how language comes apart and puts itself back together in the multilingual brain. My PhD looks at **aphasia and prosody recovery patterns**, which means I spend my days somewhere between speech waveforms, patient data, and five languages' worth of intuitions about what a sentence is *supposed* to sound like.
 
-⚡️ PhD in _Neurolinguistics and Aphasia_ at BCBL 
+I came to research through Translation & Interpreting, and it stuck: I still think about meaning as something that has to survive a journey.
 
-<div align="center">
-  
-<br>
+🎓 **BA** in Translation & Interpreting — Başkent University, Türkiye · *GPA 3.85/4.00*  
+🎓 **MA** in Language Acquisition in Multilingual Settings (LAMS) — UPV/EHU · *GPA 9/10*  
+⚡️ **PhD** in Neurolinguistics & Aphasia — BCBL
 
-## Languages
+<h2 align="center">🔍 What I work on</h2>
 
-```Turkish (Native] | English (C2) | Spanish (C1) | Korean (B1) | Italian (B1) | Euskera (A1)```
+- **Aphasia & prosody recovery** in bilingual populations
+- **Multilingual emotional valence analysis**
+- **Translation & localization** — medicine, psychology, health tourism, AVT, legal, BTC, and more
+- **AI linguistics** & writing-assistant projects
 
-
-<br>
+<h2 align="center">🗣️ Languages</h2>
 
 <div align="center">
 
-## ⛓️‍💥 Tech Skills
-<br>
+`Turkish (Native)` · `English (C2)` · `Spanish (C1)` · `Korean (B1)` · `Italian (B1)` · `Euskera (A1)`
+
+</div>
+
+<h2 align="center">⛓️‍💥 Research & Data Toolkit</h2>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Praat](https://img.shields.io/badge/Praat-555555?style=for-the-badge)
-![SPSS](https://img.shields.io/badge/SPSS-FF0000?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-FF0000?style=for-the-badge)
+![Praat](https://img.shields.io/badge/Praat-555555?style=for-the-badge)
 ![CHILDES](https://img.shields.io/badge/CHILDES-555555?style=for-the-badge)
 ![KWIC](https://img.shields.io/badge/KWIC-555555?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
+</div>
 
+<h2 align="center">💻 CAT & AVT Tools</h2>
 
-
-
-
-<br>
-
-
-<br>
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=avocadoyoon&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=avocadoyoon&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avocadoyoon&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<br>
-
-## 💻 CAT & AVT Tools  
-<br>
+<div align="center">
 
 ![Trados](https://img.shields.io/badge/Trados-00B9E4?style=for-the-badge)
-![MemoQ](https://img.shields.io/badge/memoQ-7D4698?style=for-the-badge)
+![memoQ](https://img.shields.io/badge/memoQ-7D4698?style=for-the-badge)
 ![Phrase](https://img.shields.io/badge/Phrase-00BFA5?style=for-the-badge)
 ![XTM](https://img.shields.io/badge/XTM-003366?style=for-the-badge)
 ![Translation Memory](https://img.shields.io/badge/Translation_Memory-555555?style=for-the-badge)
@@ -80,41 +64,10 @@
 ![Aegisub](https://img.shields.io/badge/Aegisub-555555?style=for-the-badge)
 ![CaptionHub](https://img.shields.io/badge/CaptionHub-555555?style=for-the-badge)
 
-<br>
+</div>
 
-## 📎 What I do
+<h2 align="center">📍 Currently</h2>
 
-<div align="left">
-
-• Aphasia & prosody recovery patterns in the bilingual population
-
-• Multilingual Emotional Valence Analysis
-
-• Translation & Localization (Medicine, Psychology, Health Tourism, AVT, Legal, BTC ♾️)
-
-• AI linguistics & writing assistant projects
-
-• Newbie Pythonista, SQL + R enthusiast
-
-<div align="center">
-
-<br>
-  
-## 📍 Current Projects & Goals
-
-<div align="left">
-
-💻 Learning R
-
-📊 Mini R & Python projects
-
-<br>
-
-<div align="center">
-
-
-
-
-
-
-
+- Deepening my **R** for mixed-effects models and acoustic data
+- Building small **Python** pipelines
+- Reading everything I can find on bilingual prosody in recovery
